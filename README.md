@@ -4,6 +4,8 @@
 
 This is a space for people to get to know me, the projects I'm working on, and a general sense of my work!
 
+***
+
 # Education
 
 I graduate from Northwestern University this Spring with a degree in Computer Science and Economics. Over my time at NU, I had the opportunity to explore a broad selection of topics both inside the classroom and through hands-on projects. I've listed a few of my favorties below.
@@ -36,6 +38,8 @@ I graduate from Northwestern University this Spring with a degree in Computer Sc
 - Ethics of Artificial Intelligence and Religion
 - Dostoevsky
 - Social Psychology
+
+***
 
 ## Recent Projects 
 
