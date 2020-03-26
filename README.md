@@ -1,4 +1,4 @@
-# Hi, I'm Ryan Callaghan!
+# Hi, I'm Ryan Callaghan! ![RACprofessionalpic](RyanProfPhoto.jpg "Me")
 
 ## Welcome to my personal and professional website
 
