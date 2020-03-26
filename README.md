@@ -4,6 +4,8 @@
 
 This is a space for people to get to know me, the projects I'm working on, and a general sense of my work!
 
+Find my resume **[here](Ryan Callaghan CV.pdf)** and my **[LinkedIn here](https://www.linkedin.com/in/ryan-callaghan-273624126/)**.
+
 ***
 
 # Education
